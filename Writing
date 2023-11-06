@@ -1,0 +1,2 @@
+pip install openai-gpt
+pip install transformers
